@@ -27,11 +27,11 @@ const Reels: React.FC = () => {
     {
       id: 1,
       thumbnail: 'https://images.pexels.com/photos/8951999/pexels-photo-8951999.jpeg',
-      title: 'When Dad Checks Your Phone 😂',
-      category: 'family',
-      views: '500K',
-      likes: '50K',
-      link: 'https://www.instagram.com/pratik_15_9/',
+      title: 'Me as a Teacher 😂',
+      category: 'trending',
+      views: '1.6M',
+      likes: '138K',
+      link: 'https://www.instagram.com/reel/DIggZX4ou0d/?utm_source=ig_web_copy_link',
     },
     {
       id: 2,
